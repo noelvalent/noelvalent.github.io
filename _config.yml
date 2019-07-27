@@ -20,15 +20,15 @@ texture:
   title: PNCSS - Carrot Scarlet Studio
   tagline: Developer who are interested in the system.
   date_format: "%b %-d, %Y"
-  style: purple
+  style: black
   showNav: true
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    # twitter: thelehhman
+    github:  noelvalent
+    # linkedIn: in/thelehhman
     rss: rss
  
 
@@ -42,4 +42,4 @@ texture:
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed
