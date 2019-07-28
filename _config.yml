@@ -30,16 +30,6 @@ texture:
     github:  noelvalent
     # linkedIn: in/thelehhman
     rss: rss
- 
-navigation:
- - title: Home
-   url: /index.html
- - title: About
-   url: /about
- - title: Categories
-   url: /category
- - title: Contact
-   url: /contact
 
  
 # If you want to link only specific pages in your header, uncomment
