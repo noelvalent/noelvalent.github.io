@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "Rust Language Study Ch1: Function"
+title:  "Rust Language Study Ch3: Control Flow"
 date:   2019-08-24 21:00:00 +0900
 ---
 
